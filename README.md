@@ -4,15 +4,16 @@ Code for the work to present at the ISSI 2025 conference about matching between 
 
 # A Research Entities Disambiguation Methodology Tested on Brazilian Researchers Database
 
-- Alysson Fernandes Mazoni1
+- Alysson Fernandes Mazoni
 afmazoni@unicamp.br
 University of Campinas, Department of Science and Technology Policy, Institute of Geosciences, R. Carlos Gomes, 250, Cidade Universitária, Campinas, São Paulo (Brazil)
+
 - Estevão Fernandes Macedo
 estevao.macedo@usp.br
 University of São Paulo, Interdisciplinary Group of Modeling Complex Systems, School of Arts, Sciences and Humanities, Rua Arlindo Béttio, 1000, Ermelino Matarazzo, São Paulo, São Paulo (Brazil)
 
 - Luís Fabiano Farias Borges
-- luis.borges@capes.gov.br
+luis.borges@capes.gov.br
 University of Campinas, Department of Science and Technology Policy, Institute of Geosciences, R. Carlos Gomes, 250, Cidade Universitária, Campinas, São Paulo (Brazil)
 Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, Setor Bancário Norte, Quadra 2, Bloco L, Lote 6, Brasília (Brazil)
 
